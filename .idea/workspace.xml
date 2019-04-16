@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5ff681-6c9c-4685-8e3f-5eec6764261a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/AddDoctorPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#actionPerformed#0;class#AddDoctorPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/AddMedicamentPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+              <folding>
+                <element signature="method#AddMedicamentPage#0;class#AddMedicamentPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/ShowConsultationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/SQLiteJDBCDriverConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/AddConsultationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="81" column="34" lean-forward="true" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getDoctors#0;class#AddConsultationPage#0" />
+                <element signature="method#getPatients#0;class#AddConsultationPage#0" />
+                <element signature="method#getMedicaments#0;class#AddConsultationPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeConsultationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="248" selection-start-line="248" selection-end-line="248" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getColumnNames#0;class#ListeConsultationPage#0" />
+                <element signature="method#getData#0;class#ListeConsultationPage#0" />
+                <element signature="method#initTable#0;class#ListeConsultationPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeDoctorsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2250">
+              <caret line="247" column="69" selection-start-line="247" selection-start-column="69" selection-end-line="247" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ListeDoctorsPage#0;class#ListeDoctorsPage#0" />
+                <element signature="method#getColumnNames#0;class#ListeDoctorsPage#0" />
+                <element signature="method#getData#0;class#ListeDoctorsPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeMedicamentsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1920">
+              <caret line="150" column="58" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getColumnNames#0;class#ListeMedicamentsPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mini_projet/ListePatientsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2220">
+              <caret line="254" selection-start-line="254" selection-end-line="254" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ListePatientsPage#0;class#ListePatientsPage#0" />
+                <element signature="method#getColumnNames#0;class#ListePatientsPage#0" />
+                <element signature="method#initTable#0;class#ListePatientsPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PatientTableModel</find>
+      <find>btnHistorique</find>
+      <find>btnDoctor</find>
+      <find>docteur</find>
+      <find>AddDoctorPage dp = new AddDoctorPage(this);</find>
+      <find>ajout</find>
+      <find>insertr</find>
+      <find>destroy</find>
+      <find>clear</find>
+      <find>remove</find>
+      <find>tablePatients</find>
+      <find>tableDoctors</find>
+      <find>incre</find>
+      <find>single</find>
+      <find>tableMedicaments</find>
+      <find>delete</find>
+      <find>DELETE</find>
+      <find>JDatePanelImpl</find>
+      <find>medecin_has_patient_medecin_matricule</find>
+      <find>medecin_has_patient_patient_num_ss</find>
+      <find>if(e.getSource()==deleteButton)</find>
+      <find>getSelectedRow</find>
+      <find>vecteur</find>
+      <find>UpdateConsultationPage</find>
+      <find>updateButton</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>CommonTableModel</replace>
+      <replace>btnDoctor</replace>
+      <replace>btnDrugs</replace>
+      <replace>medicament</replace>
+      <replace>tableDoctors</replace>
+      <replace>tableMedicaments</replace>
+      <replace>tableHistorique</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LoginPage.form" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/CustomTableModel.java" />
+        <option value="$PROJECT_DIR$/src/PatientTableModel.java" />
+        <option value="$PROJECT_DIR$/src/HistoriqueTableModel.java" />
+        <option value="$PROJECT_DIR$/src/AddDoctorPage.java" />
+        <option value="$PROJECT_DIR$/src/ListeMedicamentsPage.java" />
+        <option value="$PROJECT_DIR$/src/ListeDoctorsPage.java" />
+        <option value="$PROJECT_DIR$/src/AddMedicamentPage.java" />
+        <option value="$PROJECT_DIR$/src/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/ListeConsultationPage.java" />
+        <option value="$PROJECT_DIR$/src/JDatePickerDemo.java" />
+        <option value="$PROJECT_DIR$/src/DateLabelFormatter.java" />
+        <option value="$PROJECT_DIR$/src/SharedListSelectionHandler.java" />
+        <option value="$PROJECT_DIR$/src/AddConsultationPage.java" />
+        <option value="$PROJECT_DIR$/src/AddPatientPage.java" />
+        <option value="$PROJECT_DIR$/src/ListePatientsPage.java" />
+        <option value="$PROJECT_DIR$/src/SQLiteJDBCDriverConnection.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ListTableModel.java" />
+        <option value="$PROJECT_DIR$/src/CommonTableModel.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/CommonTableModel.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/AddDoctorPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/AddMedicamentPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/AddPatientPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/DateLabelFormatter.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ListeDoctorsPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ListeMedicamentsPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ListePatientsPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ShowConsultationPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/SQLiteJDBCDriverConnection.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/UpdateConsultationPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/ListeConsultationPage.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/Main.java" />
+        <option value="$PROJECT_DIR$/src/mini_projet/AddConsultationPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="167" />
+    <option name="y" value="23" />
+    <option name="width" value="1411" />
+    <option name="height" value="927" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mini projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mini projet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mini projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mini projet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mini projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mini projet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mini_projet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555441866164" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mini_projet" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mini_projet.Main" />
+      <module name="Mini projet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mini_projet.Main" />
+      <module name="Mini projet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mini_projet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5ff681-6c9c-4685-8e3f-5eec6764261a" name="Default Changelist" comment="" />
+      <created>1549573033825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549573033825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="167" y="23" width="1411" height="927" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1541271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934132" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32934132" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>c.get(19)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.get(20)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.get(21)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.get(j++)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.get(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>medicaments.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>medicaments[i]=c.get(j++).toString() + &quot; (indications: &quot; + c.get(j++).toString()+&quot;, posologie: &quot;+c.get(j++).toString()+&quot;)&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JFormattedTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="316" column="11" selection-start-line="316" selection-start-column="11" selection-end-line="316" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDatePickerDemo.java" />
+    <entry file="jar://$USER_HOME$/Downloads/jdatepicker-1.3.4.jar!/org/jdatepicker/impl/UtilDateModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdatepicker-1.3.4.jar!/org/jdatepicker/impl/JDatePanelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="1007" column="29" lean-forward="true" selection-start-line="1007" selection-start-column="29" selection-end-line="1007" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ListTableModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/RowTableModel.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/ResultSetMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="159" column="11" selection-start-line="159" selection-start-column="11" selection-end-line="159" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="467" column="16" selection-start-line="467" selection-start-column="16" selection-end-line="467" selection-end-column="16" />
+          <folding>
+            <element signature="e#17525#17526#0" expanded="true" />
+            <element signature="e#17549#17550#0" expanded="true" />
+            <element signature="e#23224#23225#0" expanded="true" />
+            <element signature="e#23277#23278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9436" column="37" selection-start-line="9436" selection-start-column="31" selection-end-line="9436" selection-end-column="37" />
+          <folding>
+            <element signature="e#79483#79484#0" expanded="true" />
+            <element signature="e#79527#79528#0" expanded="true" />
+            <element signature="e#116692#116693#0" expanded="true" />
+            <element signature="e#116739#116740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/table/DefaultTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="355" column="23" selection-start-line="355" selection-start-column="23" selection-end-line="355" selection-end-column="40" />
+          <folding>
+            <element signature="e#5536#5537#0" expanded="true" />
+            <element signature="e#5584#5585#0" expanded="true" />
+            <element signature="e#12351#12352#0" expanded="true" />
+            <element signature="e#12400#12401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15387">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/table/AbstractTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+          <folding>
+            <element signature="e#5673#5674#0" expanded="true" />
+            <element signature="e#5732#5733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2923">
+          <caret line="49" column="63" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="1177" column="8" selection-start-line="1177" selection-start-column="8" selection-end-line="1177" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdatepicker-1.3.4.jar!/org/jdatepicker/impl/JDatePickerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+          <folding>
+            <element signature="e#3467#3468#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdatepicker-1.3.4.jar!/org/jdatepicker/impl/UtilDateModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/ListSelectionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="140" column="8" selection-start-line="140" selection-start-column="8" selection-end-line="140" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/MASTER1-SIR/JAVA/sqlite-jdbc-3.23.1.jar!/org/sqlite/jdbc3/JDBC3ResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Font.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3321">
+          <caret line="232" column="13" selection-start-line="232" selection-start-column="13" selection-end-line="232" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JTextArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="629" column="26" selection-start-line="629" selection-start-column="26" selection-end-line="629" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JComboBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1369" column="19" selection-start-line="1369" selection-start-column="19" selection-end-line="1369" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="2330" column="18" selection-start-line="2330" selection-start-column="18" selection-end-line="2330" selection-end-column="18" />
+          <folding>
+            <element signature="e#23924#23925#0" expanded="true" />
+            <element signature="e#23996#23997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1223" column="16" selection-start-line="1223" selection-start-column="16" selection-end-line="1223" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/event/TableModelEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="219" column="69" selection-start-line="219" selection-start-column="63" selection-end-line="219" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="4500" column="17" selection-start-line="4500" selection-start-column="17" selection-end-line="4500" selection-end-column="17" />
+          <folding>
+            <element signature="e#87258#87259#0" expanded="true" />
+            <element signature="e#87318#87319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/hospital-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="299" column="11" selection-start-line="299" selection-start-column="11" selection-end-line="299" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/SwingConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1402">
+          <caret line="119" column="32" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="917">
+          <caret line="3272" column="16" selection-start-line="3272" selection-start-column="16" selection-end-line="3272" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JProgressBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4456">
+          <caret line="246" column="11" selection-start-line="246" selection-start-column="11" selection-end-line="246" selection-end-column="11" />
+          <folding>
+            <element signature="e#7371#7372#0" expanded="true" />
+            <element signature="e#7411#7412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/CommonTableModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/DateLabelFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/AddPatientPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/SharedListSelectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/UpdateConsultationPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="73" lean-forward="true" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/AddDoctorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#actionPerformed#0;class#AddDoctorPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/AddMedicamentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+          <folding>
+            <element signature="method#AddMedicamentPage#0;class#AddMedicamentPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ShowConsultationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeConsultationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getColumnNames#0;class#ListeConsultationPage#0" />
+            <element signature="method#getData#0;class#ListeConsultationPage#0" />
+            <element signature="method#initTable#0;class#ListeConsultationPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeDoctorsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="247" column="69" selection-start-line="247" selection-start-column="69" selection-end-line="247" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ListeDoctorsPage#0;class#ListeDoctorsPage#0" />
+            <element signature="method#getColumnNames#0;class#ListeDoctorsPage#0" />
+            <element signature="method#getData#0;class#ListeDoctorsPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ListeMedicamentsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="150" column="58" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getColumnNames#0;class#ListeMedicamentsPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/ListePatientsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ListePatientsPage#0;class#ListePatientsPage#0" />
+            <element signature="method#getColumnNames#0;class#ListePatientsPage#0" />
+            <element signature="method#initTable#0;class#ListePatientsPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/SQLiteJDBCDriverConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mini_projet/AddConsultationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="81" column="34" lean-forward="true" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getDoctors#0;class#AddConsultationPage#0" />
+            <element signature="method#getPatients#0;class#AddConsultationPage#0" />
+            <element signature="method#getMedicaments#0;class#AddConsultationPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Mini projet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.23.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
